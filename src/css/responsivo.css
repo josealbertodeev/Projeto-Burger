@@ -1,0 +1,11 @@
+@media screen and (max-width: 670px) {
+    .container-botoes {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    ul {
+      display: grid;
+      grid-template-columns: repeat(2, 180px);
+    }
+}
