@@ -16,9 +16,9 @@ Uma hamburgueria virtual moderna e responsiva com cardápio completo.
 * 🛍️ **Experiência de Compra**: Layout intuitivo para facilitar pedidos
 
 ## **🛠️ Tecnologias Utilizadas**
-* **HTML5**: Estrutura semântica do cardápio
-* **CSS3**: Estilização moderna com Grid Layout, Flexbox e tema dark
-* **JavaScript ES6+**: Funcionalidades interativas e filtros dinâmicos
+* **HTML**: Estrutura semântica do cardápio
+* **CSS**: Estilização moderna com Grid Layout, Flexbox e tema dark
+* **JavaScript**: Funcionalidades interativas e filtros dinâmicos
 * **Design System**: Paleta de cores consistente com roxo como cor principal
 * **Imagens Otimizadas**: Fotos profissionais dos hambúrgueres
 
@@ -45,21 +45,7 @@ O projeto foi desenvolvido com foco em **experiência mobile** e inclui:
 ## **🚀 Como Executar**
 1. **Clone o repositório**
 ```bash
-git clone https://github.com/seu-usuario/x-burger.git
-```
-
-2. **Navegue até o diretório**
-```bash
-cd x-burger
-```
-
-3. **Abra o arquivo index.html**
-   * Duplo clique no arquivo `index.html`
-   * Ou use um servidor local como Live Server (VS Code)
-
-4. **Acesse no navegador**
-```
-http://localhost:8000
+git clone https://github.com/josealbertodeev/Projeto-Burger.git
 ```
 
 ## **💡 Funcionalidades Implementadas**
