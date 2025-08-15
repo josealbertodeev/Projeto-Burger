@@ -70,7 +70,7 @@ git clone https://github.com/josealbertodeev/Projeto-Burger.git
 ## **👨‍💻 Autor**
 **[José Alberto B Farias]**
 * GitHub: [josealbertodeev](https://github.com/josealbertodeev)
-* LinkedIn: [José Alberto B Farias](https://www.linkedin.com/in/josé-alberto-b-farias)
+* LinkedIn: [José Alberto B Farias](https://www.linkedin.com/in/joséalberto)
 
 ---
 
